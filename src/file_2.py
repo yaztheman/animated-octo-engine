@@ -18,3 +18,7 @@ def function_55():
 # Update 61
 def function_60():
     return 60
+
+# Update 21
+def function_20():
+    return 20
